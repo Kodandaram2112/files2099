@@ -51,4 +51,4 @@ First list item
 
 🌚
 
-~~This is strikken~~
+~~This is strikken
